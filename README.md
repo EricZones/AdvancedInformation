@@ -26,10 +26,10 @@ AdvancedInformation is a Teamspeak client plugin that extends the visible data i
 4. Start your Teamspeak client and enable the plugin with the 'Plugins' button
 
 ## Controls
-| Button         | Description          |
-|----------------|----------------------|
-| Enable Plugin  | Enable reconnecting  |
-| Disable Plugin | Disable reconnecting |
+| Button         | Description              |
+|----------------|--------------------------|
+| Enable Plugin  | Display more information |
+| Disable Plugin | Display less information |
 
 - Buttons can be accessed by clicking on the 'Plugins' button on the top bar
 
