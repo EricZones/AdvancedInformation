@@ -32,6 +32,3 @@ AdvancedInformation is a Teamspeak client plugin that extends the visible data i
 | Disable Plugin | Display less information |
 
 - Buttons can be accessed by clicking on the 'Plugins' button on the top bar
-
-## Contributors
-- **EricZones** - Developer
